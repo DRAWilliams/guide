@@ -21,7 +21,7 @@ by the red circle in the screenshot below.
 Please notice that this screenshot is in dark-mode.
 You may select light-mode by clicking the toggle button in the very top right of the window, left of the
 "user management" button. When in dark-mode the button will be a "sun", meaning go-to light-mode, and when
-in light-mode it will be a "crescent-moon", meaning got-to dark-mode. The following screenshot shows what
+in light-mode it will be a "crescent-moon", meaning go-to dark-mode. The following screenshot shows what
 light-mode looks like.
 
 ![polaris home page, showing light-mode](polaris-home-page-light.png)
@@ -65,7 +65,7 @@ _Delete Proposal_.
 _Export Proposal_ provides a downloadable zip file containing this proposal as JSON, any supporting 
 documents you may have uploaded, and a screenshot of this overview. The astute among you will have realised this
 is the file you then upload when you click on the button _Import existing proposal_. The intention of this is to allow
-you to transfer proposals between different instanced of the Polaris application. 
+you to transfer proposals between different instances of the Polaris application. 
 
 _Clone Proposal_ creates a deep copy of the current proposal as a new proposal i.e., everything is copied - 
 targets, technical goals, observations, justifications, supporting documents, ...
