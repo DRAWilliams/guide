@@ -9,7 +9,7 @@ tags: [test, sample, docs]
 
 Last updated: 2025-10-21 Polaris _beta_ version
 
-# Adding a Targets
+# Adding a Target
 
 A fresh proposal will have no **Targets** added, and you will be presented with the following page:
 
